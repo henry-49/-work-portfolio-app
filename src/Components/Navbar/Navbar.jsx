@@ -24,7 +24,7 @@ const  Navbar = () => {
                     </ul>
                 </div>
                 {/* End List */}
-                <button className="button">Contact Us</button>
+                <button className="button n-button">Contact Us</button>
             </div>
             {/* End Nav Right */}
         </div>
