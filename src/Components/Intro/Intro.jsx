@@ -41,6 +41,9 @@ const Intro = () =>  {
                 <img src={Vector1} alt="Vector1" />
                 <img src={Vector2} alt="Vector2" />
                 <img src={boy} alt="boy" />
+                <div>
+                    
+                </div>
                </div>
             {/* End Intro Right */}
 
