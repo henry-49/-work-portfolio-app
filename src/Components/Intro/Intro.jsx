@@ -6,10 +6,10 @@ import LinkedIn from '../../img/linkedin.png';
 import Instagram from '../../img/instagram.png';
 import Vector1 from '../../img/Vector1.png';
 import Vector2 from '../../img/Vector2.png';
-import boy from '../../img/boy.png';
+import Boy from '../../img/boy.png';
 import thumbup from '../../img/thumbup.png';
 import Crown from '../../img/crown.png';
-import glassesimoji from '../../img/glassesimoji.png';
+import Glassesimoji from '../../img/glassesimoji.png';
 import FloatinDiv from "../FloatingDiv/FloatingDiv";
 
 
@@ -44,8 +44,8 @@ const Intro = () =>  {
                <div className="i-right">
                 <img src={Vector1} alt="Vector1" />
                 <img src={Vector2} alt="Vector2" />
-                <img src={boy} alt="boy" />
-                <img src={glassesimoji} alt="glassesimoji" />
+                <img src={Boy} alt="boy" />
+                <img src={Glassesimoji} alt="glassesimoji" />
 
                 {/* Start FloatingDiv  */}
                 <div style={{top: '-4%', left: '68%'}}>
