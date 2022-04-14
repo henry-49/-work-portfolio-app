@@ -4,7 +4,7 @@ import HeartEmoji from '../../img/heartemoji.png';
 import Glassesimoji from '../../img/glassesimoji.png';
 import Humble from '../../img/humble.png';
 import Card from '../Card/Card';
-import Resume from './Resume.pdf';
+import Resume from './resume.pdf';
 
 const Services = () => {
     return (
@@ -52,6 +52,8 @@ const Services = () => {
                    />
 
                </div>
+
+               <div className="blur s-blur2" style={{ background: "var(--purple)" }}></div>
             </div>
             {/* End Right Side */}
         </div>
